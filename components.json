@@ -1,0 +1,13 @@
+{
+  "vue-msgbox": "./src/index.js",
+  "test": "./src/test.js",
+  "tools": "./src/tools.js",
+  "route": "./src/route.js",
+  "log": "./src/log.js",
+  "alert": "./src/alert.js",
+  "verify": "./src/verify.js",
+  "login-status": "./src/loginstatus.js",
+
+  "base-table": "./packages/table/index.js",
+  "base-page": "./packages/page/index.js"
+}
